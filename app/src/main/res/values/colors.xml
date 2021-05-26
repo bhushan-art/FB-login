@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorprimaty">#3b5998</color>
+    <color name="colorprimatydark">#3b599a</color>
+    <color name="coloraccent">#1f2fc2</color>
+</resources>
